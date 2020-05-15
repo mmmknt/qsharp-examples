@@ -4,7 +4,7 @@
     open Microsoft.Quantum.Intrinsic;
     
 
-    @EntryPoint()
+    //@EntryPoint()
     operation HelloQ() : Unit {
         Message("Hello quantum world!");
     }
